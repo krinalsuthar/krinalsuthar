@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm krinal mistri</h1>
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" alt="hello"/> , I'm krinal mistri</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krinalsuthar&label=Profile%20views&color=0e75b6&style=flat" alt="krinalsuthar" /> </p>
