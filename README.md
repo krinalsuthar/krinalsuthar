@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reack.js,open source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/krinalsuthar/Portfolio](https://github.com/krinalsuthar/Portfolio)
+- 👨‍💻 All of my projects are available at [https://krinalsuthar.github.io/Portfolio/](https://krinalsuthar.github.io/Portfolio/)
 
 - 📫 How to reach me **mistrikrinal22@gmail.com**
 
