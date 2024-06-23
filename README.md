@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krinalsuthar" alt="krinalsuthar" /></a> </p>
 
-- 🔭 I’m currently contributing on **GSSOC'24**
-
 - 🌱 I’m currently learning **Reack.js,open source**
 
 - 👨‍💻 All of my projects are available at [https://krinalsuthar.github.io/Portfolio/](https://krinalsuthar.github.io/Portfolio/)
